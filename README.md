@@ -1,6 +1,6 @@
 # Imposture Detection
 
-
+Authenticate the user by training and testing one class SVM classifier by the data acquired with neutral mood.
 
 mood_data_extractor.py : Extract useful features from mood files and generate .txt files similiar to continuos data collection 'preproc_data' folder  
 
