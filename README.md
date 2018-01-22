@@ -2,6 +2,7 @@
 
 Authenticate the user by training and testing one class SVM classifier by the data acquired with neutral mood.
 
+## File Contents
 mood_data_extractor.py : Extract useful features from mood files and generate .txt files similiar to continuos data collection 'preproc_data' folder  
 
 featurematrix.py : Returns a data frame of (hold time, latencies) for all the characters text files in mood data. 
